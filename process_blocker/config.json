@@ -1,0 +1,9 @@
+{
+    "blocked_apps": [
+        "notepad.exe",
+        "steam.exe",
+        "discord.exe",
+        "javaw.exe"
+    ],
+    "check_interval": 30
+}
